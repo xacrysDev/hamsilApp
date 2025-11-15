@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1078866639012",
+    "project_id": "hamsil-app",
+    "storage_bucket": "hamsil-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078866639012:android:dc84922f21506946c50e31",
+        "android_client_info": {
+          "package_name": "com.hamsil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9z_yebhrdS5FlzacYg3esR0lVyiJK0as"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
